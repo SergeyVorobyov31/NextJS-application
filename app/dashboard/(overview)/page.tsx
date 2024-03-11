@@ -11,7 +11,6 @@ import {
 
 export default async function Page() {
 
-
   return (
     <main>
       <h1 className={`${lusitana.className} md-4 text-x1 md:text-2x1`}>
